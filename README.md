@@ -1,7 +1,7 @@
 # Medibank Coding Challenge
 
 ## Overview
-Search through a directory (includes sub-directories) of files and output the list of unique strings in the order of occurences next to them
+Search through a directory (includes sub-directories) of files and output the list of unique strings (case insenstive) in the order of occurences next to them
 
 ### System Requirements
 * [NodeJS 14.17](https://nodejs.org/en/download/)
